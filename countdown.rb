@@ -7,5 +7,6 @@ def countdown
     sleep(1)
   end
   if counter == 0
-    puts 
+    puts "HAPPY NEW YEAR!"
+  end
 end
